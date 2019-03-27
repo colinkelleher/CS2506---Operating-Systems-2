@@ -3,6 +3,9 @@
 Dr Dan Grigoras 
 
 Lab01 - 5 / 5 - Process & Scheduling
+
 Lab02 - Process & Scheduling
+
 Lab03 - Main Memory Management
+
 Lab04 - Application Programming iNTERFACE
