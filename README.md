@@ -8,4 +8,4 @@ Lab02 - Process & Scheduling
 
 Lab03 - Main Memory Management
 
-Lab04 - Application Programming iNTERFACE
+Lab04 - Application Programming Interface
