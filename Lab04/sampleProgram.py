@@ -1,0 +1,1 @@
+print('Hello, this file is used for OS2 LAB04')
